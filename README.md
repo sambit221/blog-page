@@ -1,2 +1,2 @@
 # blog-page
-A short description about me
+It contains short description about me and my skills.
